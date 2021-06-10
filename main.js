@@ -50,15 +50,4 @@ async function getFromServer(){
  col2.innerText = "We only provide great products combined with excellent customer service See what our satisfied customers are saying about our services.";
  console.log(col2);
 
-// let btn = document.getElementById('btn1')
-// col1.innerText = " Rated 5 Stars in Reviews";
-// console.log(btn);
-
-// let btn1 = document.getElementById('btn2');
-// col1.innerText = " Rated 5 Stars in Report Guru";
-// console.log(btn1);
-
-// let btn2 = document.getElementById('btn3')
-// col1.innerText = " Rated 5 Stars in BestTech";
-// console.log(btn2);
 
